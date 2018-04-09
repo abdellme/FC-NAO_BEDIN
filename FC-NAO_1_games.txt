@@ -1,5 +1,7 @@
 Equipe 1:
 Kévin B
+Mehdi A
+Audrey D
 Axel P
 Alexandre A
 Guillaume LB
@@ -7,3 +9,4 @@ Aurélien G
 Elia C
 Eloise N
 Vincent L
+
